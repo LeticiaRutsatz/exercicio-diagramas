@@ -1,0 +1,12 @@
+{
+  "name": "2601",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "scripts": {
+    "start":"yarn tsc && node ./dist/index.js"
+  }
+}
